@@ -1,0 +1,10 @@
+**/*.pyc
+**/*cache*
+build/
+develop-eggs
+dist
+src/*.egg-info
+stacklog.egg-info/
+StackLogHandler.log
+bin
+.installed.cfg
